@@ -26,7 +26,7 @@ RegisterNumber:  212220040020
 ```
 
 ## Output:
-![best fit line](exp-1-output.png)
+![best fit line](images/exp-1-output.png)
 
 
 ## Result:
